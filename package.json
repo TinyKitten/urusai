@@ -1,0 +1,22 @@
+{
+  "name": "urusai",
+  "version": "1.0.0",
+  "description": "yet another ssml builder",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinyKitten/urusai.git"
+  },
+  "keywords": [
+    "ssml"
+  ],
+  "author": "TinyKitten <ts@tinykitten.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TinyKitten/urusai/issues"
+  },
+  "homepage": "https://github.com/TinyKitten/urusai#readme"
+}
