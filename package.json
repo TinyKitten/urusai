@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/TinyKitten/urusai/issues"
   },
-  "homepage": "https://github.com/TinyKitten/urusai#readme"
+  "homepage": "https://github.com/TinyKitten/urusai#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
 }
